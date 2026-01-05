@@ -78,7 +78,7 @@ Currently, I work at **Aquil Media (Nashik)**, contributing to end-to-end mobile
 
 ## 🤝 Connect With Me
 
-- 💼 **LinkedIn:** *https://www.linkedin.com/in/anmol-singh-2292a51a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app*
+- 💼 **LinkedIn:** *https://www.linkedin.com/in/anmol-singh-2292a51a3*
 - 📧 **Email:** *anmolsingh9708@gmail.com*
 - 🌍 **Location:** Bihar, India
 
